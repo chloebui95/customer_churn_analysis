@@ -1,1 +1,3 @@
-# customer_churn_analysis
+# Customer Churn Analysis
+
+This repository demonstrates using PySpark to build a machine learning model for predicting customer churn in a Telecommunications company. The project covers data loading, analysis, preprocessing, feature preparation, model training, evaluation, and deployment in PySpark. The aim is to identify factors impacting churn and provide actionable insights for customer retention.
